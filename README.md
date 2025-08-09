@@ -1,19 +1,19 @@
-Japan Tourism Data Analysis / 日本の観光データ分析
+🗾Japan Tourism Data Analysis / 日本の観光データ分析
 📖 Project Overview / プロジェクト概要
 As someone with a deep interest in Japanese culture and its growing global appeal, I undertook this project to analyze Japan's international tourism data. The goal is to leverage data science techniques to uncover key trends, identify the primary countries of origin for visitors, and visualize these findings in an insightful manner. This project serves as both a demonstration of my technical skills and a personal exploration of the factors contributing to Japan's vibrant tourism industry.
 
 📋 Table of Contents / 目次
-Project Overview
+Project Overview / プロジェクト概要
 
-Key Visualizations
+Key Visualizations / 主な可視化
 
-Technologies Used
+Technologies Used / 使用技術
 
-Installation and Setup
+Installation and Setup / インストールと設定
 
-Key Findings
+Key Findings / 主な分析結果
 
-Future Work
+Future Work / 今後の課題
 
 📊 Key Visualizations / 主な可視化
 Interactive World Map of Visitors
