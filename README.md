@@ -40,11 +40,6 @@ Jupyter Notebook / Google Colab: Served as the integrated development environmen
 ⚙️ Installation and Setup / インストールと設定
 To run this project and reproduce the analysis on your local machine, please follow these steps:
 
-Clone the Repository:
-
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
-
 Install Dependencies:
 It is recommended to create a virtual environment. Then, install the required libraries:
 
